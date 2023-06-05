@@ -1,0 +1,16 @@
+.bg-content {
+  bottom: 80px;
+  left: 200px;
+  text-align: left;
+}
+.img-height {
+  height: 450px;
+  object-fit: cover;
+  object-position: 0 -50px;
+}
+
+.footer{
+ display: flex;
+ justify-content: space-between;
+ padding-bottom: 30px;
+}
